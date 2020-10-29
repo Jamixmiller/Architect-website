@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <title>Estudio Alarcon</title>
+
+</head>
+  <body>
+    <div class="logo">
+      <img src="./logoalarcon.jpg" class="logo" alt="">
+      <img src="./img/floor plan.jpeg" alt="">
+  </div>
+    <header class="fade">
+     
+      <div class="banner">
+        <a href="contacto"> <h2 class="banner-links">Contacto/</h2></a>
+        <a href="about-us"><h2 class="banner-links">Sobre Nosotros/</h2> </a>
+        <a href="proyectos"><h2 class="banner-links">Proyectos</h2></a>
+      </div>
+    </header>
+    <section>
+      <div class="room-description">
+        <h1>Proyectos</h1>
+        <p>Trabajamos con calidad y profesionalismo</p>
+      </div>
+
+      <div class="room-gallery">
+        <img class="gallery-hightlight" src="./table and island.JPG" alt="room1" />
+        <div class="room-preview">
+          <img src="./island camera.JPG" class="room-active" alt="" />
+          <img src="./railing.JPG" alt="" />
+          <img src="./backyard.JPG" alt="" />
+         
+        </div>
+      </div>
+    </section>
+    
+    <div class="projectos">
+        <p>Portfolio</p>
+
+    </div>
+    <div>About Us</div>
+    <script src="app.js"></script>
+  </body>
+</html>
+
